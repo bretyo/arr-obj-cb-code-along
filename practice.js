@@ -256,6 +256,7 @@ function schoolStatus(status) {
   // } else {
   //   return 'No more video games!'
   // }
+  return status == "Good" ? "Wow, great job kiddo!" : "No more video games!" ;
 }
 
 //////////////////PROBLEM 22////////////////////
